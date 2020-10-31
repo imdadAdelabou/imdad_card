@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/imdad/flutterBootCamp/imdad_card/imdad_card/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/imdad/imdad_card/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/imdad/flutterBootCamp/imdad_card/imdad_card/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/imdad/imdad_card/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
