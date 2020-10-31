@@ -1,0 +1,4 @@
+#Sat Oct 31 20:35:54 WAT 2020
+base.0=/home/imdad/flutterBootCamp/imdad_card/imdad_card/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
