@@ -1,4 +1,4 @@
-#Tue Nov 03 11:58:09 WAT 2020
+#Tue Nov 03 12:23:38 WAT 2020
 base.0=/home/imdad/imdad_card/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
