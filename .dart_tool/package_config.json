@@ -98,6 +98,12 @@
       "languageVersion": "2.10"
     },
     {
+      "name": "steps",
+      "rootUri": "file:///home/imdad/T%C3%A9l%C3%A9chargements/flutter/.pub-cache/hosted/pub.dartlang.org/steps-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "stream_channel",
       "rootUri": "file:///home/imdad/T%C3%A9l%C3%A9chargements/flutter/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0-nullsafety.1",
       "packageUri": "lib/",
@@ -140,7 +146,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-10-31T21:45:14.450872Z",
+  "generated": "2020-11-03T10:56:14.491817Z",
   "generator": "pub",
   "generatorVersion": "2.11.0-238.0.dev"
 }

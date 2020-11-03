@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:imdad_card/secondScreen.dart';
 
 void main() {
   runApp(MaterialApp(home: MyApp()));
@@ -102,6 +103,19 @@ class _MyApp extends State<MyApp> {
                       ),
                     ),
                   ],
+                ),
+              ),
+              SizedBox(
+                height: 50,
+              ),
+              FlatButton(
+                onPressed: () {
+                  Navigator.of(context).push(MaterialPageRoute(
+                    builder: (context) => SecondScreen(),
+                  ));
+                },
+                child: Icon(
+                  Icons.keyboard_arrow_right,
                 ),
               ),
             ],
